@@ -10,3 +10,4 @@ Here you can find what you are searching for easier.
 2. [**CRUD Operations - Exercise**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/CRUD%20Exercise)
 3. [**Table Relations - Exercise**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/Table%20Relations%20Exercise)
 4. [**Buld-in Functions - Exercise**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/Built-in%20Functions%20Exercise)
+5. [**Subqueries and Joins - Exercise**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/Subqueries%20and%20Joins%20Exercise)
