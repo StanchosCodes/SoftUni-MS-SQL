@@ -13,3 +13,4 @@ Here you can find what you are searching for easier.
 5. [**Subqueries and Joins - Exercise**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/Subqueries%20and%20Joins%20Exercise)
 6. [**Indices and Data Aggregation - Exercise**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/Indices%20and%20Data%20Aggregation%20Exercise)
 7. [**Functions and Stored Procedures - Exercise**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/Functions%20and%20Stored%20Procedures)
+8. [**Triggers and Transactions**](https://github.com/StanchosCodes/SoftUni-MS-SQL/tree/main/Triggers%20and%20Transactions)
